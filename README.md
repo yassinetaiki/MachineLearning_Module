@@ -1,5 +1,3 @@
-# MachineLearning_Module
-dans cette section j'ai realise un ensemble d'application de machine learning a l'aide de differents packages .
 
 # Numpy-Scipy 
 
